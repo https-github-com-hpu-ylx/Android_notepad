@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">记事本 by:ylx</string>
+    <string name="login">登   录</string>
+    <string name="register">注 册</string>
+    <string name="email">请输入邮箱</string>
+    <string name="Email">邮      箱</string>
+    <string name="password">请输入密码</string>
+    <string name="Password">密 码</string>
+    <string name="title_activity_notepad">notepadActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">杨立新</string>
+    <string name="nav_header_subtitle">311922010824@hpu.edu.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">设置</string>
+    <string name="edit_view">编 辑</string>
+    <string name="menu_home">笔记</string>
+    <string name="menu_gallery">图片</string>
+    <string name="menu_slideshow">视频</string>
+    <string name="menu_daiban">待办</string>>
+</resources>
